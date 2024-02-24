@@ -1,0 +1,3 @@
+C:\Users\marcos\Documents\Visual Studio 2022\CS318Projects\P05318Garnica\x64\Debug\P05318Garnica.exe
+C:\Users\marcos\Documents\GIT HUB projects\P05318Garnica\x64\Debug\P05318Garnica.exe
+C:\Users\marcos\Documents\GIT HUB projects\Circular Buffer\x64\Debug\P05318Garnica.exe
