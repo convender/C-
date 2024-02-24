@@ -1,0 +1,5 @@
+﻿  InfixToPostfixDriver.cpp
+C:\Users\marcos\Documents\Visual Studio 2022\CS255Projects\P03255GarnicaM\PostfixEval.h(94,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'InfixToPostfixDriver.cpp')
+  
+  P03255GarnicaM.vcxproj -> C:\Users\marcos\Documents\Visual Studio 2022\CS255Projects\P03255GarnicaM\x64\Debug\P03255GarnicaM.exe

@@ -1,0 +1,47 @@
+Enter an infix expression: 5-2+9
+The postfix form is 5 2 - 9 +
+Value of the expression = 12
+
+Enter an infix expression: 5*3/7
+The postfix form is 5 3 * 7 /
+Value of the expression = 2
+
+Enter an infix expression: 5^3*2
+The postfix form is 5 3 ^ 2 *
+Value of the expression = 250
+
+Enter an infix expression: 5+3)*2
+infix2Postfix: Missing '('
+
+Enter an infix expression: 3*(4-2^5)+6
+The postfix form is 3 4 2 5 ^ - * 6 +
+Value of the expression = -78
+
+Enter an infix expression: 3^2^(1+2)
+The postfix form is 3 2 1 2 + ^ ^
+Value of the expression = 6561
+
+Enter an infix expression: (7+8*7
+infix2Postfix: missing ')'
+
+Enter an infix expression: 2/0
+The postfix form is 2 0 /
+postfixEval: divide by 0
+
+Enter an infix expression: 5+10-12
+The postfix form is 5 1 0 + 1 2 -
+Value of the expression = -1
+
+Enter an infix expression: (3-5)*2
+The postfix form is 3 5 - 2 *
+Value of the expression = -4
+
+Enter an infix expression: 12+3+2(5^2)
+The postfix form is 1 2 3 + 2 5 2 ^ +
+Value of the expression = 27
+
+Enter an infix expression:
+
+C:\Users\marcos\Documents\Visual Studio 2022\CS255Projects\P03255GarnicaM\x64\Debug\P03255GarnicaM.exe (process 22748) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
